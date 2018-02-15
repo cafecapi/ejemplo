@@ -1,0 +1,22 @@
+{
+  "name": "ejemplo",
+  "version": "1.0.0",
+  "description": "Prueba",
+  "main": "/",
+  "scripts": {
+    "test": "ejemplo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cafecapi/ejemplo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cafecapi/ejemplo/issues"
+  },
+  "homepage": "https://github.com/cafecapi/ejemplo#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
